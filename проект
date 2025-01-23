@@ -1,0 +1,13 @@
+16 hello-input("hello, this is a shoes store")
+
+17 what=input("what you interested in?")
+
+18 price=input("these sneakers cost 200$, are you happy with the price?")
+
+19 boots1= 200
+
+20 cash=float(input("how much money will you give me so i can give you change?"))
+
+21 summa cash-boots1/
+
+22 print("your change", summa, "thank you for your purhase, come again!")
