@@ -1,0 +1,27 @@
+print("2*2""2*25")
+print("2*32*3=6")
+print("2*42*4=8")
+name=(input("What is your name?"))
+
+print("hello",name,"!")
+
+movie=(input("your favorite movie"))
+
+print(movie,"is good movie ")
+
+age=(input("How old are you"))
+
+print(age,"good")
+
+dont=(input("what food you dont like?"))
+print("everyone has their own tastes")
+
+phone=(input("what phone do you like"))
+
+print(phone,"is good phone")
+
+print("name=",name,
+     "favorite movie=",movie,
+     "age=",age,
+     "unloved food=",dont,
+     "favorite phone=",phone,)
