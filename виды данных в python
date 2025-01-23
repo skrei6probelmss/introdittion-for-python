@@ -1,0 +1,20 @@
+В Python есть несколько встроенных типов данных
+1 int- целые числа округляет  
+2 float - неполные  числа
+3 str - строки
+4 list - списки 
+5 tuple - кортежи 
+6 dict - словари 
+
+int  это округление
+
+price = int(10.5)
+# print(price)
+sezult: 10
+
+float преобразует
+
+
+price = float(10.5)
+print(price)
+result:10,5
